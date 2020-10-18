@@ -14,9 +14,9 @@
 
 <div class="uk-child-width-1-2@s uk-grid" uk-grid="">
     <div class="uk-first-column">
-		<h1 class="uk-h5 uk-margin-small uk-text-center uk-scrollspy-inview uk-animation-slide-top" uk-scrollspy-class="" style="">        Tuning &amp; Performance    </h1>
+		<h1 class="uk-h5 uk-margin-small uk-text-center uk-scrollspy-inview uk-animation-slide-top" uk-scrollspy-class="" style="">        Chilling &amp; procrastinating   </h1>
 		<h2 class="uk-heading-large uk-margin-small uk-text-center uk-scrollspy-inview uk-animation-slide-top" uk-scrollspy-class="" style="">        Sigal Sport    </h2>
-		<div class="uk-text-lead uk-margin-small uk-text-center uk-scrollspy-inview uk-animation-slide-bottom" uk-scrollspy-class="uk-animation-slide-bottom" style="">build – race – chill</div>
+		<div class="uk-text-lead uk-margin-small uk-text-center uk-scrollspy-inview uk-animation-slide-bottom" uk-scrollspy-class="uk-animation-slide-bottom" style="">doing nothing - just chilling</div>
 		<div class="uk-text-lead uk-margin-small uk-text-center uk-scrollspy-inview uk-animation-slide-bottom" uk-scrollspy-class="uk-animation-slide-bottom" style="">
 			<a href="https://www.youtube.com/channel/UCGK9pHoS6yS9GnfKg0lL8vw" uk-icon="youtube"></a>
 			<a href="https://www.instagram.com/sigalsport/" uk-icon="instagram"></a>
